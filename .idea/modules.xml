@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaAuthGitRep.iml" filepath="$PROJECT_DIR$/JavaAuthGitRep.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hm1/hm1.iml" filepath="$PROJECT_DIR$/hm1/hm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hm1/assignments.iml" filepath="$PROJECT_DIR$/hm1/assignments.iml" />
     </modules>
   </component>
 </project>
