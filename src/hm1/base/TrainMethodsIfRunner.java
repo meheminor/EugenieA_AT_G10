@@ -1,6 +1,7 @@
 package src.hm1.base;
 
 public class TrainMethodsIfRunner {
+
     public static void main(String[] args) {
         TrainMethodsIf trainMethodsIf = new TrainMethodsIf();
         System.out.println(trainMethodsIf.returnNewChar('g'));
