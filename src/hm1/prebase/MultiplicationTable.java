@@ -1,6 +1,7 @@
 package hm1.prebase;
 
 public class MultiplicationTable {
+
     public static void main(String[] args) {
 
         MultiplicationTable multTable = new MultiplicationTable();

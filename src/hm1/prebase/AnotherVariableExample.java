@@ -1,5 +1,7 @@
+package src.hm1.prebase;
 
 public class AnotherVariableExample {
+
     public static void main(String[] args) {
 
         AnotherVariableExample variableExample = new AnotherVariableExample();

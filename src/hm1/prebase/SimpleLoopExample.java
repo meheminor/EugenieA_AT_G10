@@ -1,6 +1,7 @@
 package hm1.prebase;
 
 public class SimpleLoopExample {
+
     public static void main(String[] args) {
         SimpleLoopExample sloop = new SimpleLoopExample();
         sloop.sloop(9);

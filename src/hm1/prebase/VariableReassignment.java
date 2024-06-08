@@ -1,6 +1,7 @@
 package hm1.prebase;
 
 public class VariableReassignment {
+
     public static void main(String[] args) {
         VariableReassignment variableReassignment = new VariableReassignment();
         variableReassignment.variableReassignment();

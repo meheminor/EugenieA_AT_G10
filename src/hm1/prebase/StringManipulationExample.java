@@ -1,6 +1,7 @@
 package src.hm1.prebase;
 
 public class StringManipulationExample {
+
     public static void main(String[] args) {
 
         StringManipulationExample strManipulationExample = new StringManipulationExample();
