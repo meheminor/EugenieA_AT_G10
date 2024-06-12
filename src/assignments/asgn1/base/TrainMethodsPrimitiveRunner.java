@@ -12,5 +12,6 @@ public class TrainMethodsPrimitiveRunner {
         trainMethodsPrimitive.printLong(3444444444444444444L);
         trainMethodsPrimitive.printDouble(14.1414D);
         trainMethodsPrimitive.printShort((short) 31555);
+  
     }
 }
