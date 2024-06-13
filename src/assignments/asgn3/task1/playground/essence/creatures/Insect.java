@@ -1,6 +1,6 @@
 package src.assignments.asgn3.task1.playground.essence.creatures;
 
-public abstract class Insect extends Animal {
+public abstract class Insect extends Animal implements Crawlable {
 
     public Insect(int mass, String name) {
         super(mass, name);

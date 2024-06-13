@@ -1,8 +1,10 @@
 package src.assignments.asgn3.task1.playground.essence.craft.field;
 
 import src.assignments.asgn3.task1.playground.essence.Matter;
+import src.assignments.asgn3.task1.playground.essence.craft.Rideable;
+import src.assignments.asgn3.task1.playground.essence.craft.Transportable;
 
-public abstract class Vehicle extends Matter {
+public abstract class Vehicle extends Matter implements Transportable, Rideable {
 
     protected String name;
 
