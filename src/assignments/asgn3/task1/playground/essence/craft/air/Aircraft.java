@@ -1,9 +1,11 @@
 package src.assignments.asgn3.task1.playground.essence.craft.air;
 
+import src.assignments.asgn3.task1.playground.essence.Flyable;
 import src.assignments.asgn3.task1.playground.essence.Matter;
+import src.assignments.asgn3.task1.playground.essence.craft.Transportable;
 
 
-public abstract class Aircraft extends Matter {
+public abstract class Aircraft extends Matter implements Transportable, Flyable {
 
     protected String name;
 
