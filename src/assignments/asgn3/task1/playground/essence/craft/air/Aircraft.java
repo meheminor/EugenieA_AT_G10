@@ -27,4 +27,11 @@ public abstract class Aircraft extends Matter implements Transportable, Flyable 
         System.out.println(message);
 
     }
+
+    public int move(int pointA, int pointB) {
+        String message = String.format("I am %s, my name is %s and I am moving from point %s to point %s.", this.getClass().getSimpleName(), name, pointA, pointB);
+        System.out.println(message);
+        return pointB - pointA;
+
+    }
 }
